@@ -1,12 +1,6 @@
----
-layout: default
----
-
 # Important dates
 
 ## Papers
-
-Please note: all deadlines are firm and no extensions will be granted. 
 
 Abstract Deadline (firm)
 : June 9, 2017
@@ -25,7 +19,7 @@ Camera-Ready Deadline
 Two-page poster paper submission
 : August 24, 2017
 
-Author Notification:	
+Author Notification	
 : August 28, 2017
 
 Camera-Ready Deadline

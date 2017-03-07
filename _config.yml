@@ -14,21 +14,48 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: LDAV 2017
-email: garth@cs.uni-kl.de
+email: ldav@ieeevis.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The 7th IEEE Symposium on Large Data Analysis and Visualization
+  in conjunction with IEEE VIS 2017, Phoenix, Arizona, October 2, 2017
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://ldav.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
+
+sass:
+  sass_dir: 
+
 exclude:
   - Gemfile
   - Gemfile.lock
+  - misc
+
+# site setup
+collections: 
+  pages:
+    output: true
+    permalink: /:path:output_ext
+
+navigation:
+ - title: Home
+   url: index.html
+ - title: Call for Papers
+   url: call-for-papers.html
+ - title: Call for Posters
+   url: call-for-posters.html
+ - title: Supporters
+   url: supporters.html
+ - title: Important Dates
+   url: important-dates.html
+ - title: Organization
+   url: organization.html
+#  - title: Presenter Information
+#    url: presenters.html
+#  - title: LDAV 2016
+#    url: 2016/
+#  - title: LDAV 2015
+#    url: 2015/
+#  - title: LDAV 2014
+#    url: 2014/

@@ -1,11 +1,13 @@
 ---
 layout: default
+title: Organization
 ---
 
 # Organization
 
-- - - 
+{::options parse_block_html="true" /}
 
+<div class="left">
 ## Symposium Chairs
 
 Janine Bennet
@@ -25,10 +27,6 @@ Hongfeng Yu
 Wei Chen
 : Zhejiang University
 
-## Program Committee
-
-to be announced
-
 ## Poster Co-Chairs
 
 Katherine Isaacs
@@ -36,7 +34,6 @@ Katherine Isaacs
 
 Filip Sadlo
 : Heidelberg University
-
 
 ## Steering Committee
 
@@ -51,3 +48,12 @@ Kwan-Liu Ma
 
 Michael Papka
 : Argonne National Laboratory
+</div>
+
+<div class="right">
+## Program Committee
+
+to be announced
+</div>
+
+- - -

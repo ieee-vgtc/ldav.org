@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include head.html %}
+
+<body>
+
+  <header>
+    <aside>
+      <img id="ldav-logo" src="assets/logo-black.png" />
+      <!--<img id="ieee-logo" src="assets/ieee_mb_black.svg" />      -->
+    </aside>
+    <article>
+      <h2>
+        <b><span>The 7th IEEE Symposium on</span>
+        <span>Large Data Analysis and Visualization</span></b><br />
+        <span>in conjunction with IEEE VIS 2017,</span>
+        <span> Phoenix, Arizona, October 2, 2017</span>
+      </h2>
+      <img id="ieee-logo" src="assets/ieee_mb_white.png" />
+    </article>
+  </header>
+
+  <main>
+    <aside>
+      <!--<div id="top-image"></div>-->
+      <!--<img id="ldav-logo" src="assets/logo.png" />-->
+      {% include nav.html %}
+      {% capture my_include %}{% include dates.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+    </aside>
+    <article>
+      <!--<div id="top-image"></div> -->
+      <!--<img width="100%" id="ldav-teaser" src="assets/right5.png" />-->
+      {{ content }}
+    </article>
+  </main>
+
+  <footer>
+    <aside>
+    </aside>
+    <article>
+      <p>
+        © 2017 7th IEEE Symposium on Large Data Analysis and Visualization, held in
+        conjunction with IEEE VIS 2017, Phoenix, Arizona, October 2, 2017.
+      </p>
+    </article>
+  </footer>
+
+</body>
+
+</html>

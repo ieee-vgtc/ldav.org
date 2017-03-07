@@ -1,10 +1,9 @@
 ---
 layout: default
+title: Call for Posters
 ---
 
 # Call for Posters
-
-- - - 
 
 Contact: <posters@ldav.org>
 

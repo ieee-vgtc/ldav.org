@@ -3,11 +3,10 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+title: Home
 ---
 
 # LDAV 2017 - Big Data Analysis and Visualization
-
-## October XX, 2017 – Phoenix, Arizona
 
 In many areas of science, simulations and experiments begin to generate many
 petabytes of data, with some sciences facing exabytes of data near term.
@@ -17,6 +16,8 @@ manage, mine, analyze, and visualize the data is fundamental to the knowledge
 discovery process. That is, the value of data at extreme scale can be fully
 realized only if we have an end-to-end solution, which demands a collective,
 inter-disciplinary effort to develop.
+
+<img width="100%" src="assets/right8.png" />
 
 This symposium, held in conjunction with IEEE VIS 2017, aims at bringing
 together domain scientists, data analytics and visualization researchers, and
@@ -32,6 +33,7 @@ short paper event for practitioners to describe and present their large data
 visualization applications. Topic emphasis is on algorithms, languages, systems
 and hardware that supports the analysis and visualization of large data.
 
-There are a variety of ways to participate in LDAV 2016 - papers, posters, and
-attending. We hope to see you there! Please register through the [IEEE VIS
-website](ieeevis.org).
+There are a variety of ways to participate in LDAV 2017 - papers, posters, and
+attending. We hope to see you there! 
+
+Please register through the [IEEE VIS website](http://ieeevis.org).
