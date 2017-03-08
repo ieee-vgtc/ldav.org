@@ -18,8 +18,8 @@ email: ldav@ieeevis.org
 description: > # this means to ignore newlines until "baseurl:"
   The 7th IEEE Symposium on Large Data Analysis and Visualization
   in conjunction with IEEE VIS 2017, Phoenix, Arizona, October 2, 2017
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ldav.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "~garth/ldav/" # the subpath of your site, e.g. /blog
+url: "http://vis.uni-kl.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
