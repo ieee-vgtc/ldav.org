@@ -17,13 +17,13 @@ Camera-Ready Deadline
 ## Posters
 
 Two-page poster paper submission
-: August 24, 2017
+: August 16, 2017
 
-Author Notification	
-: August 28, 2017
+Author Notification:	
+: August 21, 2017
 
 Camera-Ready Deadline
-: September 3, 2017
+: August 28, 2017
 
 ## Symposium
 

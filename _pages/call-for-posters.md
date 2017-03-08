@@ -50,10 +50,10 @@ award will be announced at the event.
 ### Important Dates:
 
 Two-page poster paper submission
-: August 24, 2016
+: August 16, 2017
 
 Author Notification:	
-: August 28, 2016
+: August 21, 2017
 
 Camera-Ready Deadline
-: September 3, 2016
+: August 28, 2017
