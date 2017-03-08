@@ -24,8 +24,8 @@ url: "http://vis.uni-kl.de" # the base hostname & protocol for your site, e.g. h
 # Build settings
 markdown: kramdown
 
-sass:
-  sass_dir: 
+gems: 
+  - jekyll-last-modified-at
 
 exclude:
   - Gemfile

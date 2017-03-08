@@ -118,8 +118,16 @@ main article img {
     margin-bottom: 1em;
 }
 
-footer article {
+footer {
+    color: darkgray;
     font-size: 80%;
+
+    aside {
+        text-align: center;
+    }
+
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 h1, h2, h3, h4 {
