@@ -17,7 +17,7 @@ discovery process. That is, the value of data at extreme scale can be fully
 realized only if we have an end-to-end solution, which demands a collective,
 inter-disciplinary effort to develop.
 
-<img width="100%" src="assets/right8.png" />
+<img width="100%" src="assets/right11.png" />
 
 This symposium, held in conjunction with IEEE VIS 2017, aims at bringing
 together domain scientists, data analytics and visualization researchers, and
