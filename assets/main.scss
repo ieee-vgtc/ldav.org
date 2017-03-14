@@ -87,6 +87,24 @@ nav {
     }
 }
 
+#archive ul {
+
+    li {
+        float: left;
+        margin-left: 2em;
+    }
+
+    li:nth-child(odd) {
+        clear: left;
+    }
+
+    li:nth-child(even) {
+        margin-left: 4em;
+    }
+
+    padding-bottom: 4em;
+}
+
 main hr {
     border: none;
     border-top: 1px dotted gray;
@@ -108,9 +126,16 @@ span {
     display: inline-block;
 }
 
-main aside nav ~ * {
-    display: none;
-    font-size: 90%;
+main aside {
+    nav ~ * {
+        display: none;
+        font-size: 90%;
+    }
+
+    hr {
+        border: none;
+        border-top: 1px dotted #eee;
+    }
 }
 
 main article img {

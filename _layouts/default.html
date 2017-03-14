@@ -23,8 +23,11 @@
   <main>
     <aside>
       {% include nav.html %}
+      <hr />
       {% capture my_include %}{% include dates.md %}{% endcapture %}
       {{ my_include | markdownify }}
+      <hr />
+      {% include archive.html %}
     </aside>
     <article>
       {{ content }}
