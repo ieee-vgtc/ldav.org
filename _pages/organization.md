@@ -10,7 +10,7 @@ title: Organization
 <div class="left">
 ## Symposium Chairs
 
-Janine Bennet
+Janine Bennett
 : Sandia National Laboratories
 
 Christoph Garth
