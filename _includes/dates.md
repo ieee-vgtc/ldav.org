@@ -23,7 +23,7 @@ Author Notification:
 : August 17, 2017
 
 Camera-Ready Deadline
-: August 24, 2017
+: August 25, 2017
 
 ## Symposium
 
