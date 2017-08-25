@@ -34,8 +34,8 @@ navigation:
    url: call-for-papers.html
  - title: Call for Posters
    url: call-for-posters.html
- - title: Supporters
-   url: supporters.html
+#  - title: Supporters
+#    url: supporters.html
  - title: Important Dates
    url: important-dates.html
  - title: Organization

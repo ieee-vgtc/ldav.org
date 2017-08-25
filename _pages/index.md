@@ -33,3 +33,7 @@ There are a variety of ways to participate in LDAV 2017 - papers, posters, and
 attending. We hope to see you there! 
 
 Please register through the [IEEE VIS website](http://ieeevis.org).
+
+# Supporter
+
+<a href="www.kitware.com"><img width="30%" src="assets/Kitware_Print_186.svg" /></a>
