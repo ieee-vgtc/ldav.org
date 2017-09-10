@@ -30,6 +30,8 @@ collections:
 navigation:
  - title: Home
    url: index.html
+ - title: Program
+   url: program.html
  - title: Call for Papers
    url: call-for-papers.html
  - title: Call for Posters
