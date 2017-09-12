@@ -110,7 +110,7 @@ title: Program
         <td><h4>Panel</h4></td>
     </tr>
     <tr>
-        <td>5:05 – 5:45 pm</td>
+        <td>5:45 – 5:55 pm</td>
         <td>Best Paper Award &amp; Closing Remarks</td>
     </tr>
     <tr>

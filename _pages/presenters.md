@@ -15,7 +15,7 @@ paper or poster and make a pitch to have people attend your talk.
 
 ## Your responsibilities:
 
-By Tuesday, October 26 send a PowerPoint slide, using the [slide template](assets/ldav-template.ppt), to be projected during your fast forward slot to papers@ldav.org. If you send one slide, that will be presented for 30 seconds. If you provide multiple slides or animations, please add timings for 30 seconds. (You will not be able to advance the slides by hand.)
+By Tuesday, September 26 send a PowerPoint slide, using the [slide template](assets/ldav-template.ppt), to be projected during your fast forward slot to papers@ldav.org. If you send one slide, that will be presented for 30 seconds. If you provide multiple slides or animations, please add timings for 30 seconds. (You will not be able to advance the slides by hand.)
 On the morning of LDAV, assemble at the front of the room before the first session (at 8:20 am).
 Line up in order of presentation for the day (there will be LDAV volunteers there to help).
 Be prepared to give a 30 second sales pitch for your talk or poster.
