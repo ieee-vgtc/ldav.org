@@ -164,7 +164,7 @@ Claudio Silva
 : New York University 
 
 Danielle Szafir
-: University of Colorado
+: University of Colorado Boulder
 
 Huy Vo
 : New York University 
