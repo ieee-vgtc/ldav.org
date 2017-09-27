@@ -22,15 +22,16 @@ title: Program
             (Chair: Ron Oldfield)
             <ul>
                 <li>
-                    Techniques for Data-Parallel Searching for Duplicate Elements. 
+                    Techniques for Data-Parallel Searching for Duplicate Elements.
+                    <br /> 
                     <i>Brenton Lessley, Kenneth Moreland, Matthew Larsen, Hank Childs</i>
                 </li>
                 <li>
-                    Task-based Augmented Merge Trees with Fibonacci Heaps.
+                    Task-based Augmented Merge Trees with Fibonacci Heaps.<br />
                     <i>Charles Gueunet, Pierre Fortin, Julien Jomier, Julien Tierny</i>
                 </li>
                 <li>
-                    Maximal Clique Enumeration with Data-Parallel Primitives. 
+                    Maximal Clique Enumeration with Data-Parallel Primitives.<br />
                     <i>Brenton Lessley, Talita Perciano, Manish Mathai, Hank Childs, E. Wes Bethel</i>
                 </li>
             </ul>
@@ -45,7 +46,7 @@ title: Program
         (Chair: Katherine Isaacs)
         <ul>
             <li>
-                Sampling Techniques to Improve Big Data Exploration.
+                Sampling Techniques to Improve Big Data Exploration.<br />
                 <i>Julian Andres Ramos Rojas, Mary Beth Kery, Stephanie Rosenthal, Anind Dey</i>
             </li>
         </ul>
@@ -68,19 +69,19 @@ title: Program
             (Chair: Hank Childs)
             <ul>
                 <li>
-                    Interactive Visualization of High-Dimensional Petascale Ocean Data.
+                    Interactive Visualization of High-Dimensional Petascale Ocean Data.<br />
                     <i>David Ellsworth, Christopher Henze, Bron Nelson</i>
                 </li>
                 <li>
-                    Scalable Web-Embedded Volume Rendering. 
+                    Scalable Web-Embedded Volume Rendering.<br />
                     <i>Mohammad Raji, Alok Hota, Jian Huang</i>
                 </li>
                 <li>
-                    Using Feature Importance Metrics to Detect Events of Interest in Scientific Computing Applications. 
+                    Using Feature Importance Metrics to Detect Events of Interest in Scientific Computing Applications.<br /> 
                     <i>Julia Ling, W. Philip Kegelmeyer, Konduri Aditya, Hemanth Kolla, Kevin A. Reed, Tim M. Shead, Warren L. Davis IV</i>
                 </li>
                 <li>
-                    In Situ Video Encoding of Floating-Point Volume Data Using Special-Purpose Hardware for a Posteriori Rendering and Analysis. 
+                    In Situ Video Encoding of Floating-Point Volume Data Using Special-Purpose Hardware for a Posteriori Rendering and Analysis.<br />
                     <i>Nick Leaf, Bob Miller, Kwan-Liu Ma</i>
                 </li>
             </ul>
@@ -96,11 +97,12 @@ title: Program
         (Chair: Tom Peterka)
         <ul>
             <li>
-            GraphRay: Distributed Pathfinder Network Scaling. 
+            GraphRay: Distributed Pathfinder Network Scaling.<br />
             <i>Alessio Arleo, Oh-Hyun Kwon, Kwan-Liu Ma</i>
             </li>
             <li>
-            Parallel Multi-Level Ghost Cell Generation for Distributed Unstructured Grids. <i>John Patchett, Boonthanome Nouanesengesy, James Ahrens, Hans Hagen</i>
+            Parallel Multi-Level Ghost Cell Generation for Distributed Unstructured Grids.<br />
+            <i>John Patchett, Boonthanome Nouanesengesy, James Ahrens, Hans Hagen</i>
             </li>
         </ul>
         </td>
@@ -125,13 +127,16 @@ title: Program
         Posters:
 <ul>
     <li>
-        An Application-Oriented Framework for Feature Tracking in Atmospheric Sciences. <i>Daisuke Sakurai, Hans-Christian Hege, Alex Kuhn, Henning Rust, Bastian Kern, Tom-Lukas Breitkopf</i>
+        An Application-Oriented Framework for Feature Tracking in Atmospheric Sciences.<br />
+        <i>Daisuke Sakurai, Hans-Christian Hege, Alex Kuhn, Henning Rust, Bastian Kern, Tom-Lukas Breitkopf</i>
     </li>
     <li>
-        Optimal Viewpoint Finding for Space Time Cube to Explore Spatio-temporal Characteristics of Vehicle Trajectories on Crossroads. <i>Masahiko Itoh, Daisaku Yokoyama, Masashi Toyoda,Masaru Kitsuregawa</i>
+        Optimal Viewpoint Finding for Space Time Cube to Explore Spatio-temporal Characteristics of Vehicle Trajectories on Crossroads.<br />
+        <i>Masahiko Itoh, Daisaku Yokoyama, Masashi Toyoda,Masaru Kitsuregawa</i>
     </li>
     <li>
-        Virtual Reality Tools for the Correction of Automated Volume Segmentation Errors using Dense Surface Reconstructions. <i>Edouard Brooks, Joseph Insley, Michael Papka, Silvio Rizzi</i>
+        Virtual Reality Tools for the Correction of Automated Volume Segmentation Errors using Dense Surface Reconstructions.<br />
+        <i>Edouard Brooks, Joseph Insley, Michael Papka, Silvio Rizzi</i>
     </li>
 </ul>
     </td>
@@ -152,4 +157,4 @@ predictive science.
 <p style="text-align: left;">
 <b>Speaker</b><br />
 <img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/UR.jpg" />
-Ulrich Ruede heads Chair for Simulation at the University Erlangen-Nuremberg and is the leader of the Parallel Algorithms Team at the Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique (CERFACS) in Toulouse. He studied Mathematics and Computer Science at Technische Universitaet Muenchen (TUM) and The Florida State University. He has been a visiting Professor at University of Colorado, Boulder and the National University of Singapur. His research interests lie in Computational Science and Engineering with a focus on parallel numerical algorithms and high end computing, in particular computational fluid dynamics, multilevel methods, and software engineering for high performance computing. He is a Fellow of the Society of Industrial and Applied Mathematics.</p>
+Ulrich Rüde heads Chair for Simulation at the University Erlangen-Nuremberg and is the leader of the Parallel Algorithms Team at the Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique (CERFACS) in Toulouse. He studied Mathematics and Computer Science at Technische Universitaet Muenchen (TUM) and The Florida State University. He has been a visiting Professor at University of Colorado, Boulder and the National University of Singapur. His research interests lie in Computational Science and Engineering with a focus on parallel numerical algorithms and high end computing, in particular computational fluid dynamics, multilevel methods, and software engineering for high performance computing. He is a Fellow of the Society of Industrial and Applied Mathematics.</p>
