@@ -19,7 +19,7 @@ title: Program
     <tr>
         <td>8:55 – 10:10 am</td>
         <td><h4>Session: Multicore Techniques</h4>
-            (Chair: to be announced)
+            (Chair: Ron Oldfield)
             <ul>
                 <li>
                     Techniques for Data-Parallel Searching for Duplicate Elements. 
@@ -42,7 +42,7 @@ title: Program
     <tr>
         <td>10:30 – 10:55 am</td><td>
         <h4>Session: Sampling Techniques</h4>
-        (Chair: to be announced)
+        (Chair: Katherine Isaacs)
         <ul>
             <li>
                 Sampling Techniques to Improve Big Data Exploration.
@@ -65,7 +65,7 @@ title: Program
     <tr>
         <td>2:00 – 3:40 pm</td>
         <td><h4>Session: Interactive Visualization / In Situ Techniques</h4>
-            (Chair: to be announced)
+            (Chair: Hank Childs)
             <ul>
                 <li>
                     Interactive Visualization of High-Dimensional Petascale Ocean Data.
@@ -93,7 +93,7 @@ title: Program
     <tr>
         <td>4:15 – 5:05 pm</td>
         <td><h4>Session: Distributed Memory Techniques</h4>
-        (Chair: to be announced)
+        (Chair: Tom Peterka)
         <ul>
             <li>
             GraphRay: Distributed Pathfinder Network Scaling. 
@@ -127,7 +127,7 @@ title: Program
         Optimal Viewpoint Finding for Space Time Cube to Explore Spatio-temporal Characteristics of Vehicle Trajectories on Crossroads. <i>Masahiko Itoh, Daisaku Yokoyama, Masashi Toyoda,Masaru Kitsuregawa</i>
     </li>
     <li>
-        VIDeR: Exploring Virtual Reality Visualization and Interaction Tools for Dense Segmented Volume Reconstructions. <i>Edouard Brooks, Joseph Insley, Michael Papka, Silvio Rizzi</i>
+        Virtual Reality Tools for the Correction of Automated Volume Segmentation Errors using Dense Surface Reconstructions. <i>Edouard Brooks, Joseph Insley, Michael Papka, Silvio Rizzi</i>
     </li>
 </ul>
     </td>
