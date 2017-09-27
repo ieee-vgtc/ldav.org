@@ -54,7 +54,7 @@ title: Program
     <tr>
         <td>10:55 – 12:10 pm</td>
         <td><h4>Keynote Presentation</h4>
-            Multiphysics simulation not yet at the extreme scale.
+            <b>Multiphysics simulation not yet at the extreme scale.</b>
             <br /><i>Prof. Dr. Ulrich Rüde, Friedrich-Alexander Universität Erlangen-Nürnberg</i>
         </td>
     </tr>
@@ -107,7 +107,11 @@ title: Program
     </tr>
     <tr>
         <td>5:05 – 5:45 pm</td>
-        <td><h4>Panel</h4></td>
+        <td><h4>Panel</h4>
+        <b>High Performance Data Analytics (HPDA): <br />Opportunities and challenges in the intersection of HPC and Big Data Analytics</b>
+        <br />
+        <i>Participants: Kelly Gaither, Chris Johnson, Patricia Crossno, Peer-Timo Bremer, Ross Maciejewski</i>
+        </td>
     </tr>
     <tr>
         <td>5:45 – 5:55 pm</td>
