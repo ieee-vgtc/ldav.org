@@ -3,9 +3,38 @@ layout: default
 title: Program
 ---
 
-# Program
+<h1>Program</h1>
 
-<b>Symposium – October 2, 2017, Room 301-D</b>
+<hr />
+<h2>LDAV Posters</h2>
+<b>Room 301-AB</b>
+<p>
+<b>LDAV Poster Session &amp; VIS Opening Session</b><br />Oct. 1, 7–9 pm
+</p>
+<p><b>Poster Viewing</b><br />
+Oct 2–5 (Monday–Thursday), 8:30 am – 5:55 pm<br />
+</p>
+<p>
+</p>
+<b>Posters:</b>
+<ul>
+    <li>
+        An Application-Oriented Framework for Feature Tracking in Atmospheric Sciences.<br />
+        <i>Daisuke Sakurai, Hans-Christian Hege, Alex Kuhn, Henning Rust, Bastian Kern, Tom-Lukas Breitkopf</i>
+    </li>
+    <li>
+        Optimal Viewpoint Finding for Space Time Cube to Explore Spatio-temporal Characteristics of Vehicle Trajectories on Crossroads.<br />
+        <i>Masahiko Itoh, Daisaku Yokoyama, Masashi Toyoda,Masaru Kitsuregawa</i>
+    </li>
+    <li>
+        Virtual Reality Tools for the Correction of Automated Volume Segmentation Errors using Dense Surface Reconstructions.<br />
+        <i>Edouard Brooks, Joseph Insley, Michael Papka, Silvio Rizzi</i>
+    </li>
+</ul>
+
+<hr />
+<h2>Symposium</h2>
+<b>October 2, 2017, Room 301-D</b>
 
 <table>
     <tr>
@@ -118,28 +147,6 @@ title: Program
     <tr>
         <td>5:45 – 5:55 pm</td>
         <td>Best Paper Award &amp; Closing Remarks</td>
-    </tr>
-    <tr>
-        <td>7:00 – 9:00 pm</td>
-        <td>
-        <h4>VIS Opening Reception &amp; LDAV Poster Session</h4>
-        <br />
-        Posters:
-<ul>
-    <li>
-        An Application-Oriented Framework for Feature Tracking in Atmospheric Sciences.<br />
-        <i>Daisuke Sakurai, Hans-Christian Hege, Alex Kuhn, Henning Rust, Bastian Kern, Tom-Lukas Breitkopf</i>
-    </li>
-    <li>
-        Optimal Viewpoint Finding for Space Time Cube to Explore Spatio-temporal Characteristics of Vehicle Trajectories on Crossroads.<br />
-        <i>Masahiko Itoh, Daisaku Yokoyama, Masashi Toyoda,Masaru Kitsuregawa</i>
-    </li>
-    <li>
-        Virtual Reality Tools for the Correction of Automated Volume Segmentation Errors using Dense Surface Reconstructions.<br />
-        <i>Edouard Brooks, Joseph Insley, Michael Papka, Silvio Rizzi</i>
-    </li>
-</ul>
-    </td>
     </tr>
 </table>
 
