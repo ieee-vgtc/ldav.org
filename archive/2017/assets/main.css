@@ -1,0 +1,242 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+body {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 13px;
+  text-rendering: optimizeLegibility;
+  line-height: 1.5;
+  background: lightgray; }
+
+main aside, main article {
+  background: white; }
+
+header {
+  background-color: black; }
+  header article {
+    background-image: url(right10.png);
+    background-repeat: no-repeat;
+    background-size: auto 100px;
+    background-position: center; }
+
+footer {
+  background-color: black; }
+  footer aside {
+    display: none; }
+
+main aside h1, main aside h2, main article h1, main article h2 {
+  color: crimson; }
+
+main article h1 {
+  font-size: 130%; }
+main article h2 {
+  font-size: 120%; }
+main article h1 + h2 {
+  padding: 0;
+  margin: 0; }
+
+a, a:visited {
+  color: crimson; }
+
+nav ul {
+  padding: 0; }
+  nav ul li {
+    list-style: outside square;
+    margin-left: 2em; }
+  nav ul a, nav ul a:visited {
+    color: black;
+    text-decoration: none; }
+
+#archive ul {
+  padding-bottom: 4em; }
+  #archive ul li {
+    float: left;
+    margin-left: 2em; }
+  #archive ul li:nth-child(odd) {
+    clear: left; }
+  #archive ul li:nth-child(even) {
+    margin-left: 4em; }
+
+main hr {
+  border: none;
+  border-top: 1px dotted gray; }
+
+header, footer {
+  color: white; }
+  header h1, footer h1 {
+    font-size: 350%; }
+  header h2, footer h2 {
+    font-size: 110%; }
+
+span {
+  display: inline-block; }
+
+main aside nav ~ * {
+  display: none;
+  font-size: 90%; }
+main aside hr {
+  border: none;
+  border-top: 1px dotted #eee; }
+
+main article img {
+  margin-top: 1em;
+  margin-bottom: 1em; }
+
+footer {
+  color: darkgray;
+  font-size: 80%;
+  padding-top: 1em;
+  padding-bottom: 1em; }
+  footer aside {
+    text-align: center; }
+
+h1, h2, h3, h4 {
+  font-family: "Montserrat", sans-serif; }
+
+h1 {
+  font-size: 100%;
+  font-weight: 800; }
+
+p + h1 {
+  margin-top: 1em; }
+
+h2 {
+  font-size: 120%;
+  font-weight: 400; }
+
+h3 {
+  font-size: 100%;
+  font-weight: 400;
+  text-decoration: underline; }
+
+dl dt {
+  margin-top: .5em;
+  font-weight: 600; }
+dl dd {
+  margin-left: 0; }
+
+#ieee-logo {
+  width: 100px;
+  margin-bottom: 1em; }
+
+#ldav-logo {
+  width: 120px;
+  height: 120px; }
+
+.left, .right {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top; }
+
+header aside img {
+  width: 150px; }
+header aside, header article {
+  text-align: center; }
+header article img {
+  margin: 0;
+  padding: 0; }
+
+header {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 1em; }
+
+aside, article {
+  padding-right: 2em;
+  padding-left: 2em; }
+
+main aside, main article {
+  margin-bottom: 1em;
+  padding-bottom: .5em;
+  padding-top: .5em; }
+
+footer {
+  text-align: center;
+  clear: both; }
+
+table {
+  border-collapse: collapse; }
+
+td {
+  display: block;
+  margin-bottom: 0; }
+
+tr td:first-child {
+  padding-top: 1em;
+  font-weight: bold; }
+
+td + td {
+  padding-bottom: 1em; }
+
+tr + tr {
+  border-top: 1px dotted lightgray; }
+
+td h4 {
+  margin: 0;
+  color: crimson; }
+
+@media screen and (min-width: 720px) {
+  table {
+    border-collapse: collapse; }
+    table tr td:first-child {
+      text-align: right;
+      vertical-align: top;
+      padding-right: 2em;
+      font-size: 90%;
+      width: 8.5em; }
+    table tr td {
+      display: table-cell;
+      padding-top: 1em;
+      padding-bottom: 1em; }
+    table h4 {
+      margin: 0;
+      padding: 0;
+      color: crimson; }
+
+  body {
+    display: table;
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 960px; }
+
+  header, footer, main {
+    display: table-row; }
+    header article, header aside, footer article, footer aside, main article, main aside {
+      display: table-cell;
+      padding-bottom: 1em;
+      padding-top: 1em; }
+
+  header {
+    height: initial; }
+    header article {
+      background-position: right 2em center;
+      background-size: auto 70%; }
+
+  aside {
+    min-width: 12em;
+    padding-right: 2em;
+    padding-left: 2em;
+    border-right: 1px dotted lightgray; }
+
+  article {
+    width: 100%;
+    padding-left: 2em; }
+
+  header aside, header article, footer aside, footer article {
+    vertical-align: middle; }
+  header aside, footer aside {
+    border-right: 1px dotted #444; }
+  header article, footer article {
+    text-align: left; }
+  header #ieee-logo, footer #ieee-logo {
+    margin-top: 1em;
+    float: right; }
+  header #ldav-logo, footer #ldav-logo {
+    height: 160px;
+    width: 160px; }
+
+  footer {
+    text-align: left; }
+    footer aside {
+      display: table-cell; }
+
+  main aside nav ~ * {
+    display: block; } }
