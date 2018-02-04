@@ -13,34 +13,36 @@ description: >
 navigation:
  - title: Home
    url: index.html
- - title: Program
-   url: program.html
- - title: Presenter Information
-   url: presenters.html 
- - title: Call for Papers
-   url: call-for-papers.html
- - title: Call for Posters
-   url: call-for-posters.html
- - title: Supporters
-   url: supporters.html
- - title: Important Dates
-   url: important-dates.html
- - title: Organization
-   url: organization.html
+#  - title: Program
+#    url: program.html
+#  - title: Presenter Information
+#    url: presenters.html 
+#  - title: Call for Papers
+#    url: call-for-papers.html
+#  - title: Call for Posters
+#    url: call-for-posters.html
+#  - title: Supporters
+#    url: supporters.html
+#  - title: Important Dates
+#    url: important-dates.html
+#  - title: Organization
+#    url: organization.html
 
 # --- end site config ---
 
 # build settings
 markdown: kramdown
 
-gems: 
+plugins: 
   - jekyll-last-modified-at
+  - jekyll-minifier
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - misc
+  - archive/previous
 
 collections: 
   pages:
