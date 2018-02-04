@@ -5,7 +5,6 @@ gem "jekyll", "3.5.0"
 
 # jekyll plugins
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
   gem "jekyll-last-modified-at", "~> 1.0.1"
   gem "jekyll-livereload", "~> 0.2.2"
   gem 'jekyll-minifier', '~> 0.1.5'

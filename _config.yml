@@ -43,6 +43,8 @@ exclude:
   - README.md
   - misc
   - archive/previous
+  - s3_website.yml
+  - .travis.yml
 
 collections: 
   pages:
