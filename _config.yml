@@ -45,6 +45,7 @@ exclude:
   - archive/previous
   - s3_website.yml
   - .travis.yml
+  - vendor
 
 collections: 
   pages:
