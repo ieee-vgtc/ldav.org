@@ -1,32 +1,14 @@
 
-title: LDAV 2017
+title: LDAV 2018
 email: ldav@ieeevis.org
 baseurl: ""
 url: "http://ldav.org"
 
+# --- site config ---
+
 description: > 
-  The 7th IEEE Symposium on Large Data Analysis and Visualization,
-  in conjunction with IEEE VIS 2017, Phoenix, Arizona, October 2, 2017
-
-
-# Build settings
-markdown: kramdown
-
-gems: 
-  - jekyll-last-modified-at
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - misc
-  - archive
-
-# site setup
-collections: 
-  pages:
-    output: true
-    permalink: /:path:output_ext
+  The 8th IEEE Symposium on Large Data Analysis and Visualization,
+  in conjunction with IEEE VIS 2018, Berlin, October 21, 2018
 
 navigation:
  - title: Home
@@ -45,4 +27,23 @@ navigation:
    url: important-dates.html
  - title: Organization
    url: organization.html
+
+# --- end site config ---
+
+# build settings
+markdown: kramdown
+
+gems: 
+  - jekyll-last-modified-at
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - misc
+
+collections: 
+  pages:
+    output: true
+    permalink: /:path:output_ext
 

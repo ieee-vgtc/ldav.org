@@ -2,52 +2,47 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Montserrat');
 @charset "utf-8";
 
+$brand-color: #0087FF;
+$sep-color:   orange;
+$bg-color:    white;
 
 // --- base colors & fonts -------------------------------------------------
 
 body {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
 
     text-rendering: optimizeLegibility;
     line-height: 1.5;	
-    
-    background: lightgray;
+
+    background: $bg-color;
 }
 
 main {
     aside, article {
-        background: white;
-    }
-}
-
-header {
-
-    background-color: black;
-    
-    article {
-        background-image: url(right10.png);
-        background-repeat: no-repeat;
-        background-size: auto 100px;
-        background-position: center;
+        background: $bg-color;
+        opacity: 0.9;
     }
 }
 
 footer {
-    background-color: black;
+    background-color: $bg-color;
 
     aside {
         display: none;
+    }
+
+    article {
+        border-top: 5px solid $sep-color;
     }
 }
 
 main aside, main article {
     h1, h2 {
-        color: crimson;
+        color: $brand-color;
     }
 }
 
@@ -67,10 +62,12 @@ main article {
 }
 
 a, a:visited {
-    color: crimson;
+    color: $brand-color;
 }
 
 nav { 
+    font-size: 12px;
+
     ul { 
         padding: 0;
 
@@ -111,7 +108,7 @@ main hr {
 }
 
 header, footer {
-    color: white;
+    color: black;
     
     h1 { 
         font-size: 350%; 
@@ -179,9 +176,6 @@ h3 {
     text-decoration: underline;
 }
 
-h1 + h2 {
-}
-
 dl {
     dt {
         margin-top: .5em;
@@ -194,7 +188,7 @@ dl {
 }
 
 #ieee-logo {
-    width: 100px;
+    width: 80px;
     margin-bottom: 1em;
 }
 
@@ -232,9 +226,12 @@ header {
 
 header {
     padding-top: 1em;
-    padding-bottom: 1em;
+    padding-bottom: 2em;
 
-    margin-bottom: 1em;
+    background: url(header-sm.png);
+    background-position: center bottom;
+    background-size: 460px auto;
+    background-repeat: no-repeat;
 }
 
 aside, article {
@@ -242,16 +239,24 @@ aside, article {
     padding-left: 2em;
 }
 
-main aside, main article {
-    margin-bottom: 1em;
+main { 
+    aside, article {
+        margin-bottom: 1em;
 
-    padding-bottom: .5em;
-    padding-top: .5em;
+        padding-bottom: .5em;
+        padding-top: .5em;
+
+        border-top: 5px solid $sep-color;
+    }
 }
 
 footer {
     text-align: center;
     clear: both;
+
+    aside, article {
+        border-top: 5px solid $sep-color;
+    }
 }
 
 // --- large ---------------------------------------------------------------
@@ -280,11 +285,10 @@ tr + tr {
 
 td h4 {
     margin: 0;
-    color: crimson;
+    color: $brand-color;
 }
 
 @media screen and (min-width: 720px) {
-
     table {
 
         border-collapse: collapse;
@@ -308,22 +312,21 @@ td h4 {
         h4 {
             margin: 0;
             padding: 0;
-            color: crimson;
+            color: $brand-color;
         }
     }
 
     body {
         display: table;
-
         margin: 0 auto;
-
         padding: 1em;
+
         max-width: 960px;
     }
 
     header, footer, main {
         display: table-row;
-
+        
         article, aside {
             display: table-cell;
 
@@ -333,11 +336,20 @@ td h4 {
     }
 
     header {
-        height: initial;
+        background: none;
 
         article {
-            background-position: right 2em center;
-            background-size: auto 70%;        
+            background-image: url(header-lg.png);
+            background-repeat: no-repeat;
+            background-size: auto 160px;
+            background-position: right 1em bottom;
+        }
+    }
+
+    main {
+        aside, article {
+            border-top:    5px solid $sep-color;
+            border-bottom: 5px solid $sep-color;
         }
     }
 
@@ -361,7 +373,7 @@ td h4 {
         }
 
         aside {
-            border-right: 1px dotted #444;
+            border-right: 1px dotted lightgray;
         }
 
         article {
@@ -369,13 +381,13 @@ td h4 {
         }
 
         #ieee-logo {
-            margin-top: 1em;
-            float: right;
+            // margin-top: 1em;
+            // margin-bottom: none;
+            // float: right;
         }
 
         #ldav-logo {
-            height: 160px;
-            width: 160px;
+            // margin-bottom: -10px;
         }
     }
 
@@ -391,3 +403,13 @@ td h4 {
         display: block;
     }
 }
+
+// @media screen and (min-width: 1000px) {
+//     body {
+//         max-width: 960px;
+//     }
+
+//     header article {
+//         background-size: auto 215px;
+//     }
+// }

@@ -1,6 +1,4 @@
 # Important dates
 
-## Symposium
-
-One-day symposium
-: October 2, 2017
+Symposium
+: October 21, 2018

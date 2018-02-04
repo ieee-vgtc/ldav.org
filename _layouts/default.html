@@ -1,33 +1,67 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-{% include head.html %}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <title>{% if site.title %}{{ site.title | escape }}{% endif %}{% if page.title %} – {{ page.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="stylesheet" href="assets/main.css">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+</head>
 <body>
 
   <header>
     <aside>
-      <img id="ldav-logo" src="assets/logo-black.png" />
+      <img id="ldav-logo" src="assets/logo-ldav.png" />
     </aside>
     <article>
       <h2>
-        <b><span>The 7th IEEE Symposium on</span>
+        <b><span>The 8th IEEE Symposium on</span>
         <span>Large Data Analysis and Visualization</span></b><br />
-        <span>in conjunction with IEEE VIS 2017,</span>
-        <span> Phoenix, Arizona, October 2, 2017</span>
+        <span>in conjunction with IEEE VIS 2018,</span>
+        <span> Berlin, Germany, October 21, 2018</span>
       </h2>
-      <img id="ieee-logo" src="assets/ieee_mb_white.png" />
+      <img id="ieee-logo" src="assets/logo-ieee.png" />
     </article>
   </header>
 
   <main>
     <aside>
-      {% include nav.html %}
+      <nav>
+        <h1>Menu</h1>
+        <ul>
+          {% for link in site.navigation %} 
+          {% assign current = nil %} 
+          {% if page.url contains link.url %} {% assign current = 'current'%} {% endif %}
+          <li class="{{ current }}">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+          </li>
+          {% endfor %}
+          <li>
+            <a href="mailto:ldav@ieeevis.org">Contact</a>
+          </li>
+        </ul>
+      </nav>
       <hr />
       {% capture my_include %}{% include dates.md %}{% endcapture %}
       {{ my_include | markdownify }}
       <hr />
-      {% include archive.html %}
+      <nav id="archive">
+        <h1>LDAV Archive</h1>
+        <ul>
+          <li><a href="archive/2017/">2017</a></li>
+          <li><a href="http://ldav2016.sci.utah.edu" target="_blank">2016</a></li>
+          <li><a href="http://ldav2015.sci.utah.edu" target="_blank">2015</a></li>
+          <li><a href="http://ldav2014.sci.utah.edu" target="_blank">2014</a></li>
+          <li><a href="http://ldav2013.sci.utah.edu" target="_blank">2013</a></li>
+          <li><a href="http://ldav.sci.utah.edu" target="_blank">2012</a></li>
+          <li><a href="http://vis.cs.ucdavis.edu/LDAV/index.php" target="_blank">2011</a></li>
+        </ul>
+      </nav>
     </aside>
     <article>
       {{ content }}
@@ -40,8 +74,7 @@
     </aside>
     <article>
       <p>
-        © 2017 7th IEEE Symposium on Large Data Analysis and Visualization, held in
-        conjunction with IEEE VIS 2017, Phoenix, Arizona, October 2, 2017.
+        © Large Data Analysis and Visualization (LDAV at IEEE VIS 2018)
       </p>
     </article>
   </footer>
