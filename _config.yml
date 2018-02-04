@@ -45,3 +45,5 @@ navigation:
  - title: Organization
    url: organization.html
 
+
+theme: jekyll-theme-minimal
