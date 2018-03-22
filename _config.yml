@@ -23,10 +23,10 @@ navigation:
 #    url: call-for-posters.html
 #  - title: Supporters
 #    url: supporters.html
-#  - title: Important Dates
-#    url: important-dates.html
-#  - title: Organization
-#    url: organization.html
+ - title: Important Dates
+   url: important-dates.html
+ - title: Organization
+   url: organization.html
 
 # --- end site config ---
 

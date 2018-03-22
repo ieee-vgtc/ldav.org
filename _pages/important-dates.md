@@ -10,18 +10,18 @@ Please note: all deadlines are firm and no extensions will be granted.
 ## Papers
 
 Abstract Deadline (firm)
-: June 9, 2017
+: June 17, 2018
 
 Paper Submission (firm)
-: June 16, 2017, 11:59 PM (AOE)
+: July 1, 2018, 11:59 PM (AOE)
 
 Author Notification
-: August 4, 2017
+: August 12, 2018
 
 Camera-Ready Deadline
-: August 11, 2017
+: August 17, 2018
 
-## Posters
+<!-- ## Posters
 
 Two-page poster paper submission
 : August 14, 2017
@@ -35,4 +35,4 @@ Camera-Ready Deadline
 ## Symposium
 
 One-day symposium
-: October 2, 2017
+: October 2, 2017 -->

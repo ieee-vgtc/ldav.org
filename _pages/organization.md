@@ -33,22 +33,22 @@ Michael Papka
 <div class="right">
 ## Paper Chairs
 
+Danyel Fisher
+: Microsoft Research
+
 Julien Tierny
 : CNRS - Sorbonne Université
 
 Hongfeng Yu
 : University of Nebraska-Lincoln
 
-t.b.d.
-: t.b.d.
-
 ## Poster Co-Chairs
 
 Katherine Isaacs
 : University of Arizona
 
-t.b.d.
-: t.b.d.
+Thomas Vierjahn
+: RWTH Aachen University
 </div>
 
 <div class="left">

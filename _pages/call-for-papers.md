@@ -50,7 +50,8 @@ Short papers should have a length of 4-5 pages in total. Short papers are a venu
 **Submission Instructions**:
 LDAV is accepting both full papers and short papers. The manuscripts should be formatted according to guidelines from IEEE VGTC. Submission of an abstract is required prior to submission of a paper or short paper.
 
-**Submission site note**: Go to the submission site (https://precisionconference.com/~vgtc), log in, go to 'new submissions', and select 'LDAV 2018 Papers'.
+**Please check back for further submission instructions in the near future.**
+<!-- **Submission site note**: Go to the submission site (https://precisionconference.com/~vgtc), log in, go to 'new submissions', and select 'LDAV 2018 Papers'. -->
 
 
 ## Proceedings

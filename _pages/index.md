@@ -29,9 +29,13 @@ tracks. Topic emphasis is on algorithms, languages, systems, and/or hardware
 solutions that support the collection, analysis, manipulation, or visualization
 of large-scale data.
 
-There are a variety of ways to participate in LDAV 2018 - papers, posters, and
-attending. We hope to see you there! 
+There are a variety of ways to participate in LDAV 2018:
 
-<b>Please check back soon for paper and poster CFPs!</b>
+- **[full papers and short papers](call-for-papers.html)**,
+- **posters** (call forthcoming soon), 
+
+and, of course, attending. 
+
+We hope to see you there! 
 
 To attend LDAV, please register through the [IEEE VIS website](http://ieeevis.org).
