@@ -19,7 +19,7 @@ end-to-end solutions, which demands collective, interdisciplinary efforts.
 
 <img id="teasers" src="assets/teasers.png" />
 
-The 7th IEEE Large Scale Data Analysis and Visualization (LDAV) symposium, to be
+The 8th IEEE Large Scale Data Analysis and Visualization (LDAV) symposium, to be
 held in conjunction with IEEE VIS 2018, is specifically targeting methodological
 innovation, algorithmic foundations, and possible end-to-end solutions. The LDAV
 symposium will bring together domain scientists, data analysts, visualization
@@ -32,4 +32,6 @@ of large-scale data.
 There are a variety of ways to participate in LDAV 2018 - papers, posters, and
 attending. We hope to see you there! 
 
-Please register through the [IEEE VIS website](http://ieeevis.org).
+<b>Please check back soon for paper and poster CFPs!</b>
+
+To attend LDAV, please register through the [IEEE VIS website](http://ieeevis.org).

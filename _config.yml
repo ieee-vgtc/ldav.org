@@ -17,8 +17,8 @@ navigation:
 #    url: program.html
 #  - title: Presenter Information
 #    url: presenters.html 
-#  - title: Call for Papers
-#    url: call-for-papers.html
+ - title: Call for Papers
+   url: call-for-papers.html
 #  - title: Call for Posters
 #    url: call-for-posters.html
 #  - title: Supporters
@@ -35,7 +35,7 @@ markdown: kramdown
 
 plugins: 
   - jekyll-last-modified-at
-#  - jekyll-minifier
+  - jekyll-sitemap
 
 exclude:
   - Gemfile

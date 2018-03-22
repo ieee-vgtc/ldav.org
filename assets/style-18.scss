@@ -35,10 +35,6 @@ main {
 footer {
     background-color: $bg-color;
 
-    aside {
-        display: none;
-    }
-
     article {
         border-top: 5px solid $sep-color;
     }
@@ -359,7 +355,7 @@ td h4 {
     main {
         aside, article {
             border-top:    5px solid $sep-color;
-            border-bottom: 5px solid $sep-color;
+            // border-bottom: 5px solid $sep-color;
         }
     }
 

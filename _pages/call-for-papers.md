@@ -1,90 +1,75 @@
 ---
 layout: default
 title: Call for Papers
-
 ---
 
 # Call for Papers
 
 Contact: <papers@ldav.org>
 
-Modern large-scale scientific simulations, sensor networks, and experiments are
-generating enormous datasets, with some projects approaching the multiple
-exabyte range in the near term. Managing and analyzing large datasets in order
-to transform it into insight is critical for a variety of disciplines including
-climate science, nuclear physics, security, materials design, transportation,
-and urban planning. The tools and approaches needed to mine, analyze, and
-visualize data at extreme scales can be fully realized only if there are
-end-to-end solutions, which demands collective, interdisciplinary efforts.
+Data scales are increasing throughout scientific, business, and research contexts. Large-scale scientific simulations, observation technologies, sensor networks, and experiments are generating enormous datasets, with some projects approaching the multiple exabyte range in the near term 
 
-The 7th IEEE Large Scale Data Analysis and Visualization (LDAV) symposium, to
-be held in conjunction with IEEE VIS 2017, is specifically targeting
-methodological innovation, algorithmic foundations, and possible end-to-end
-solutions. The LDAV symposium will bring together domain scientists, data
-analysts, visualization researchers, and users to foster common ground for
-solving both near- and long-term problems.
+Gaining insight from massive data is critical for disciplines such as climate science, nuclear physics, security, materials design, transportation, urban planning, and so on. Business-critical decisions are made based on massive data in domains like social media, machine learning, software telemetry, and business intelligence. The tools and approaches needed to search, analyze, and visualize data at extreme scales can be fully realized only from end-to-end solutions, and with collective, interdisciplinary efforts.
+
+The 8th IEEE Large Scale Data Analysis and Visualization (LDAV) symposium, to be held in conjunction with IEEE VIS 2018, is specifically targeting methodological innovation, algorithmic foundations, and possible end-to-end solutions. The LDAV symposium will bring together domain experts, data analysts, visualization researchers, and users to foster common ground for solving both near- and long-term problems.
 
 ## Scope
+We are looking for both original research contributions and position papers on a broad-range of topics related to collection, analysis, manipulation, and visualization of large-scale data.  We are particularly interested in innovative approaches that combine information visualization, visual analytics, and scientific visualization.
 
-We are looking for original research contributions on a broad-range of topics
-related to collection, analysis, manipulation or visualization of large-scale
-data. We also welcome position papers on these topics.
+We are interested in methods for data at scale, including: 
+-	Distributed, parallel, and multi-threaded computation
+-	Streaming methods
+-	Innovative software solutions 
+-	Advanced hardware and GPU-based approaches 
+-	Hierarchical data storage, retrieval, processing, and rendering
+-	Sampling, approximate query processing, and progressive computation
+-	Collection, management, and curation of massive datasets
+-	Scalable visualization and exploration methods
+-	Ensemble data visualization and analysis
+-	In-situ data analysis
 
-Topics of interest include, but are not limited to:
+We are also interested in understanding state of the art techniques, including:
+-	Best practices for large data visualization
+-	End-to-end system solutions in a large data context
+-	Industry solutions for big data analysis and visualization
 
-- Streaming methods for analysis, collection and visualization
-- Advanced hardware for data handling or visualization
-- Innovative software solutions and best practices for large data visualization
-- Distributed, parallel or multi-threaded approaches
-- Spark-based, MapReduce-based and database-related methods, algorithms 
-  or approaches
-- End-to-end system solutions in a large data context
-- Hierarchical data storage, retrieval or rendering
-- In situ visualization techniques
-- Collaboration or co-design of large data analysis with domain scientists
-- Topics in cognitive issues specific to manipulating and understanding 
-  large data
-- Application case studies
-- Industry solutions for big data
-- Innovative approaches combining information visualization, 
-  visual analytics, and scientific visualization
-- Novel methods for understanding and interacting with extreme-scale data
-- New challenges in visualizing experimental, observational, or simulation data 
-- Collection, management and curation of massive datasets
+We are interested in research on the context of visualization, including:
+-	Collaboration or/and co-design of large data analysis with domain  experts
+-	Topics in cognitive issues specific to manipulating and understanding large data
+-	Application case studies
+-	New challenges in visualizing experimental, observational, or simulation data 
 
-## Submission Instructions
+### Full Papers
+Full papers should have a maximum length of  9 pages with up to two (2) additional pages allowed for only references (maximum total of 11 pages). Full papers may make contributions in techniques, systems, applications, evaluations, or theory. The contributions of full papers are reviewed based on their novelty, contribution, replicability, and evaluation.
 
-Submitted manuscripts should have a length of 8 or 9 pages, with an
-additional two (2) pages allowed only for references. Alternatively, authors
-may submit short papers of 4-5 pages total length. The manuscripts should be
-formatted according to guidelines from IEEE VGTC. Submission of an abstract is 
-required prior to submission of a paper or short paper.
+### Short Papers
+Short papers should have a length of 4-5 pages in total. Short papers are a venue to report smaller contributions than full papers. Position papers and showcases of interesting application of visualization are good topics for short papers. Technique, system, application, evaluation, or theory papers that have a smaller contribution than a full paper can also be submitted as a short paper.
 
-### Submission site
+## Submission
 
-Go to the [submission site](https://precisionconference.com/~vgtc), log in, go
-to 'new submissions', and select 'LDAV 2017 Papers'.
+**Submission Instructions**:
+LDAV is accepting both full papers and short papers. The manuscripts should be formatted according to guidelines from IEEE VGTC. Submission of an abstract is required prior to submission of a paper or short paper.
+
+**Submission site note**: Go to the submission site (https://precisionconference.com/~vgtc), log in, go to 'new submissions', and select 'LDAV 2018 Papers'.
+
 
 ## Proceedings
-The proceedings of the symposium will be published together with the VIS
-proceedings and via the IEEE Xplore Digital Library.
+The proceedings of the symposium will be published together with the VIS proceedings and via the IEEE Xplore Digital Library.
 
 ## Best Paper
-The LDAV Program Committee will present a Best Paper award to the authors whose
-submission is deemed the strongest according to the reviewing criteria. This
-award will be announced in conjunction with VIS 2017.
+The LDAV Program Committee will present a Best Paper award to the authors whose submission is deemed the strongest according to the reviewing criteria. This award will be announced in conjunction with VIS 2018.
 
 ## Important Dates
 Please note: all deadlines are firm and no extensions will be granted. 
 
 Abstract Deadline (firm)
-: June 9, 2017
+: June 17, 2018
 
 Paper Submission (firm)
-: June 16, 2017, 11:59 PM (AOE)
+: July 1, 2018, 11:59 PM (AOE)
 
 Author Notification
-: August 4, 2017
+: August 12, 2018
 
 Camera-Ready Deadline
-: August 11, 2017
+: August 17, 2018
