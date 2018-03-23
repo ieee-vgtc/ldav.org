@@ -47,7 +47,7 @@ Hongfeng Yu
 Katherine Isaacs
 : University of Arizona
 
-Thomas Vierjahn
+Tom Vierjahn
 : RWTH Aachen University
 </div>
 
