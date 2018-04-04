@@ -7,7 +7,7 @@ title: Call for Posters
 
 Contact: <posters@ldav.org>
 
-We invite you to submit unpublished work to the IEEE LDAV 2017 Poster Program.
+We invite you to submit unpublished work to the IEEE LDAV 2018 Poster Program.
 The poster program is a venue designed to highlight ongoing research and late
 breaking topics that have produced promising preliminary results. In addition to
 the topics listed under Call for Papers, we also welcome submissions that
@@ -27,18 +27,21 @@ accompanied by an on-site demonstration and/or videos.
 
 ### Poster 2-Page Abstract Submission Instructions:
 
-Submitted abstracts may not exceed the maximum of two pages in length. The
+Submitted abstracts may not exceed the maximum of two pages in length including references. The
 abstract should be formatted according to guidelines available on the IEEE VGTC
 Website.
 
 ### Poster 2-Page Abstract Submission Site:
 
-Go to the [submission site](https://precisionconference.com/~vgtc), log in, go
-to 'new submissions', and select 'LDAV 2017 Posters’.
+Go to the [submission site](https://new.precisionconference.com/~vgtc), log in, go
+to 'Submissions', and select 
+* Society: 'VGTC'
+* Conference: 'LDAV 2018'
+* Track: "'DAV 2018 Posters'.
 
 ### Layout and Dimensions of the Posters:
 
-The dimensions of the posters should not exceed the A0 space (841mm x 1189mm or
+The dimensions of the posters should not exceed the A0 *portrait* space (841mm x 1189mm or
 33.1" x 46.8"). The poster authors can determine the layout by themselves, but
 please be sure to follow the dimensions described above.
 
