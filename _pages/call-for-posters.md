@@ -37,7 +37,7 @@ Go to the [submission site](https://new.precisionconference.com/~vgtc), log in, 
 to 'Submissions', and select 
 * Society: 'VGTC'
 * Conference: 'LDAV 2018'
-* Track: "'DAV 2018 Posters'.
+* Track: 'LDAV 2018 Posters'.
 
 ### Layout and Dimensions of the Posters:
 
