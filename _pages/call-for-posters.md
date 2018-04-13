@@ -24,28 +24,27 @@ This would help reviewers and show that the poster format is used effectively.
 The draft poster should be in PDF format. 
 The authors should indicate if the poster would be accompanied by an on-site demonstration and/or videos.
 
-### Poster 2-Page Summary Submission Instructions:
+## Poster 2-Page Summary Submission Instructions
 
 Submitted summaries may not exceed the maximum of two pages in length including references. 
 The summary should be formatted according to guidelines available on the [IEEE VGTC Website](http://junctionpublishing.org/vgtc/Tasks/camera.html).
 
-### Poster 2-Page Summary Submission Site:
-
+**Submission Site:**
 Go to the [submission site](https://new.precisionconference.com/~vgtc), log in, go to 'Submissions', and select 
 * Society: 'VGTC'
 * Conference: 'LDAV 2018'
 * Track: 'LDAV 2018 Posters'.
 
-### Layout and Dimensions of the Posters:
+## Layout and Dimensions of the Posters
 
 The dimensions of the posters should not exceed the A0 *portrait* space (841mm x 1189mm or 33.1" x 46.8"). 
 The poster authors can determine the layout by themselves, but please be sure to follow the dimensions described above.
 
-### Best Poster Award:
+## Best Poster Award
 The LDAV Program Committee will award the Best Poster Award to the authors whose submission is deemed the strongest according to the reviewing criteria. 
 This award will be announced at the event.
 
-### Plagiarism
+## Plagiarism
 
 All submissions must be either: 1) original work that has not been presented previously at any workshop, symposium, or conference, or published previously in any archived conference proceeding, magazine, or journal; or 2) a summary that highlights work presented or published in a related venue with a clear statement of attribution to the original work. 
 
@@ -53,7 +52,7 @@ At the time of submission, it is required by the authors to state explicitly in 
 Plagiarism in any form is unacceptable and will lead to a removal of the submission from the review process. For more information, please see the [IEEE plagiarism FAQ](https://www.ieee.org/publications_standards/publications/rights/plagiarism_FAQ.html) and the [IEEE Publication Services and Products Board Operations Manual](http://www.ieee.org/documents/opsmanual.pdf).
 
 
-### Important Dates:
+## Important Dates
 
 Two-page poster paper submission
 : August 24, 2018
