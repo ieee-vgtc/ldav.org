@@ -32,7 +32,7 @@ Author Notification:
 Camera-Ready Deadline
 : September 03, 2018
 
-<!-- ## Symposium
+## Symposium
 
 One-day symposium
-: October 2, 2017 -->
+: October 21, 2018
