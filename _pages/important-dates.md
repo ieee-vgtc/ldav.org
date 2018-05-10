@@ -21,18 +21,18 @@ Author Notification
 Camera-Ready Deadline
 : August 17, 2018
 
-<!-- ## Posters
+## Posters
 
 Two-page poster paper submission
-: August 14, 2017
+: August 24, 2018, 11:59 PM (AOE)
 
 Author Notification:	
-: August 17, 2017
+: August 28, 2018
 
 Camera-Ready Deadline
-: August 25, 2017
+: September 03, 2018
 
-## Symposium
+<!-- ## Symposium
 
 One-day symposium
 : October 2, 2017 -->
