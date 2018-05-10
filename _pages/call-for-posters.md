@@ -55,7 +55,7 @@ Plagiarism in any form is unacceptable and will lead to a removal of the submiss
 ## Important Dates
 
 Two-page poster paper submission
-: August 24, 2018
+: August 24, 2018, 11:59 PM (AOE)
 
 Author Notification:	
 : August 28, 2018

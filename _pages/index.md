@@ -32,7 +32,7 @@ of large-scale data.
 There are a variety of ways to participate in LDAV 2018:
 
 - **[full papers and short papers](call-for-papers.html)**,
-- **posters** (call forthcoming soon), 
+- **[posters](call-for-posters.html)**, 
 
 and, of course, attending. 
 
