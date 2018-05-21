@@ -7,7 +7,7 @@ title: Call for Papers
 
 Contact: <papers@ldav.org>
 
-Data scales are increasing throughout scientific, business, and research contexts. Large-scale scientific simulations, observation technologies, sensor networks, and experiments are generating enormous datasets, with some projects approaching the multiple exabyte range in the near term 
+Data scales are increasing throughout scientific, business, and research contexts. Large-scale scientific simulations, observation technologies, sensor networks, and experiments are generating enormous datasets, with some projects approaching the multiple exabyte range in the near term.
 
 Gaining insight from massive data is critical for disciplines such as climate science, nuclear physics, security, materials design, transportation, urban planning, and so on. Business-critical decisions are made based on massive data in domains like social media, machine learning, software telemetry, and business intelligence. The tools and approaches needed to search, analyze, and visualize data at extreme scales can be fully realized only from end-to-end solutions, and with collective, interdisciplinary efforts.
 
@@ -48,10 +48,9 @@ Short papers should have a length of 4-5 pages in total. Short papers are a venu
 ## Submission
 
 **Submission Instructions**:
-LDAV is accepting both full papers and short papers. The manuscripts should be formatted according to guidelines from IEEE VGTC. Submission of an abstract is required prior to submission of a paper or short paper.
+LDAV is accepting both full papers and short papers. The manuscripts should be formatted according to [guidelines from IEEE VGTC](http://www.cs.sfu.ca/~vis/Tasks/camera.html). Submission of an abstract is required prior to submission of a paper or short paper.
 
-**Please check back for further submission instructions in the near future.**
-<!-- **Submission site note**: Go to the submission site (https://precisionconference.com/~vgtc), log in, go to 'new submissions', and select 'LDAV 2018 Papers'. -->
+**Submission site note**: Go to the [submission site](https://new.precisionconference.com/vgtc) ([https://new.precisionconference.com/vgtc](https://new.precisionconference.com/vgtc)), log in, go to 'Submissions', and select Society 'VGTC', Conference 'LDAV 2018', and Track 'LDAV 2018 Papers'.
 
 
 ## Proceedings
