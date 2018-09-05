@@ -48,7 +48,7 @@ Katherine Isaacs
 : University of Arizona
 
 Tom Vierjahn
-: RWTH Aachen University
+: Westphalian University of Applied Sciences, Bocholt
 </div>
 
 <div class="left">
