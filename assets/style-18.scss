@@ -271,6 +271,12 @@ table {
     border-collapse: collapse;
 }
 
+table.program {
+    li {
+        padding-bottom: .2em;
+    }
+}
+
 td {
     display: block;
     margin-bottom: 0;
@@ -305,7 +311,7 @@ td h4 {
             vertical-align: top;
             padding-right: 2em; 
             font-size: 90%;
-            width: 8.5em;
+            width: 11em;
         }
     
         tr td {
