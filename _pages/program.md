@@ -12,7 +12,7 @@ title: Program
         <td>Opening Remarks</td>
     </tr>
     <tr>
-        <td>10:55 – 12:10 pm</td>
+        <td>9:10 – 10:15 pm</td>
         <td><h4>Keynote Presentation</h4>
              <!-- <b>Multiphysics simulation not yet at the extreme scale.</b>
             <br /> -->
@@ -21,7 +21,7 @@ title: Program
     </tr>
     <tr>
         <td>10:15 – 10:40 am</td>
-        <td><h4>Session: Uncertail Data</h4>
+        <td><h4>Session: Uncertain Data</h4>
             (Chair: Hanqi Guo)
             <ul>
                 <li>
@@ -57,6 +57,8 @@ title: Program
         <b>Progressive Visualization and Visual Analytics</b>
         <!-- <br />
         <i>Participants: Kelly Gaither, Chris Johnson, Patricia Crossno, Peer-Timo Bremer, Ross Maciejewski</i> -->
+        <br />
+        <small>Progressive visualization, also known as Online Aggregation, consists of splitting long and expensive computations into a series of approximate results improving with time; in this process, partial or approximate results are then rapidly returned to the user and can be interacted with in a fluent and iterative fashion. With the increasing growth in data, such progressive data analysis approaches will become one of the leading paradigms for data exploration systems, but it also will require major changes in the algorithms, data structures, and visualization tools used today.  In early October 2018, a Dagstuhl Seminar explored progressive visualization; in this panel, speakers from that seminar will share outcomes from that conversation, and explore ways the LDAV community can adapt these approaches.</small>
         </td>
     </tr>
     <tr>
@@ -66,7 +68,7 @@ title: Program
     <tr>
         <td>2:20 – 4:00 pm</td>
         <td><h4>Session: Parallelism & Approximation</h4>
-            (Chair: Steffen Freu)
+            (Chair: Steffen Frey)
             <ul>
                 <li>
                     DPP-PMRF: Rethinking Optimization for a Probabilistic Graphical Model Using Data-Parallel Primitives.<br />
