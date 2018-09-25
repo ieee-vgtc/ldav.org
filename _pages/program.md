@@ -17,6 +17,7 @@ title: Program
             <b>Large Data Analysis and Visualization – New Approaches for Dynamic Volumes and Particle Data Sets</b>
             <br />
             <i>Prof. Dr. Thomas Ertl, University of Stuttgart</i>
+            <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
         </td>
     </tr>
     <tr>
@@ -174,17 +175,17 @@ title: Program
     </tr>
 </table>
 
-<!-- <hr />
+<hr />
 
-<h1>Keynote</h1>
+<h1 id="keynote">Keynote</h1>
 
-<b>T.B.A.</b><br />
-<i>Prof. Dr. Thomas Ertl, University of Stuttgart</i>
+<b>Large Data Analysis and Visualization – <br />New Approaches for Dynamic Volumes and Particle Data Sets</b><br />
+<i>Prof. Dr. Thomas Ertl – Visualization Research Center, University of Stuttgart, Germany</i>
 
-Lorem ipsum (abstract).
+<p>As data set sizes and complexity continue to grow, more elaborate techniques for their interactive analysis and visualization are being developed in our community. This talk presents some of the recent contributions of the VISUS group at the University of Stuttgart focusing on dynamic volumes and particle data sets. For volumes we exploit similarity between time steps to select the most important characteristic temporal features, while still allowing exploration, and we develop intermediate view dependent representations for hybrid in situ approaches. New adaptive volume rendering algorithms allow for maintaining interactive frame rates by balancing quality and sampling errors. For large particle data sets, we present multi-GPU techniques for static astrophysical datasets of more than trillions of particles; and for dynamic molecular trajectories we elaborate on the OSPRay integration into our Megamol framework. We conclude with our first attempts to learn interesting features in volumetric time series and performance characteristics of visual computing systems.</p>
 
 <p style="text-align: left;">
 <b>Speaker</b><br />
-<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/UR.jpg" />
-Bio
-</p> -->
+<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/ThomasErtl-square.jpg" />
+<p>Thomas Ertl received a MSc in computer science from the University of Colorado at Boulder and a PhD in theoretical astrophysics from the University of Tübingen. Since 1999 he is a full professor of computer science at the University of Stuttgart in the Visualization and Interactive Systems Institute (VIS) and the Visualization Research Center (VISUS). Currently, he serves as Vice President of Research of the University of Stuttgart. His research interests include visualization, computer graphics and human computer interaction in general with a focus on volume rendering, flow and particle visualization, parallel and hardware accelerated graphics, large datasets and interactive steering, visual analytics of text collections and social media, user interfaces and navigation systems for the blind.  Thomas Ertl served on numerous program committees and as a papers co-chair for most conferences in the field. From 2007-2010 he was Editor-in-Chief of the IEEE Transactions on Visualization and Graphics (TVCG) and in 2011/2012 he served as Chairman of the Eurographics Association. He received the Outstanding Technical Contribution Award and the Distinguished Career Award of the Eurographics Association and the Technical Achievement Award of the IEEE Visualization and Graphics Technical Committee. In 2007 he was elected as a Member of the Heidelberg Academy of Sciences and Humanities. He received Honorary Doctorates from the Vienna University of Technology in 2011 and from the University of Magdeburg in 2014. 
+</p>
