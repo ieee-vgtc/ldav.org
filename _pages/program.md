@@ -14,8 +14,8 @@ title: Program
     <tr>
         <td>9:10 – 10:15 pm</td>
         <td><h4>Keynote Presentation</h4>
-             <!-- <b>Multiphysics simulation not yet at the extreme scale.</b>
-            <br /> -->
+            <b>Large Data Analysis and Visualization – New Approaches for Dynamic Volumes and Particle Data Sets</b>
+            <br />
             <i>Prof. Dr. Thomas Ertl, University of Stuttgart</i>
         </td>
     </tr>
